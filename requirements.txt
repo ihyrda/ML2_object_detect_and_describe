@@ -1,0 +1,11 @@
+torch
+transformers<5.0
+huggingface-hub>=0.34.0,<1.0
+gradio<6
+numpy<2
+Pillow
+matplotlib
+requests
+timm
+inflect
+phonemizer
